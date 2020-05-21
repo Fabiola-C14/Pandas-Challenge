@@ -58,3 +58,11 @@ Identify the 5 most profitable items by total purchase value, then list (in a ta
   *	Purchase Count
   *	Item Price
   *	Total Purchase Value
+
+## Analysis Conclusion
+
+* Most of the players are males (84%), but on average females tend to purchase more expensive items. Based on the data, the females average item price is $3.20 (mode of 4.4), compared to the males’ average item price of $3.02 (mode of 4.23).
+
+* The most popular item sold is Final Critic with 13 purchases, and a price of $4.61. Thus, generating the highest revenue.
+
+* Lisosia93 is the player with the highest items purchased ($18.96), followed by Idastidru52 ($15.45). However, Idastidru52 tends to purchase more expensive items (average purchase price $3.86) compared to Lisosia93 (average purchased price $3.79).
